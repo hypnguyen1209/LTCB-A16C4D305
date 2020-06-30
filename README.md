@@ -1,5 +1,5 @@
 # LTCB-A16C4D305
-## Các thành phần cơ bản của ngôn ngữ C
+## Chương 1: Các thành phần cơ bản của ngôn ngữ C
 ### Bài tập cuối chương 1
 
 | Câu     | Đề bài                                                                                                                       | Trang | Xem      |
